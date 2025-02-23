@@ -4,8 +4,6 @@
 
 This project is a Marketing Analysis Dashboard designed to provide actionable insights into sales performance, customer trends, and marketing effectiveness. The dashboard includes various visualizations, forecasts, and AI-powered analytics to enhance decision-making.
 
-🔗 Click Here to Enter the Dashboard
-
 🚀 **Features**
 
 **ETL Process**
