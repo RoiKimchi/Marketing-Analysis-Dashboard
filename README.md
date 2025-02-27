@@ -4,6 +4,7 @@
 📊 **Overview**
 
 This project is a Marketing Analysis Dashboard designed to provide actionable insights into sales performance, customer trends, and marketing effectiveness. The dashboard includes various visualizations, forecasts, and AI-powered analytics to enhance decision-making.
+![Uploading Screenshot 2025-02-27 at 22.44.07.png…]()
 
 🚀 **Features**
 
