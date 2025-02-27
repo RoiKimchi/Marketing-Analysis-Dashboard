@@ -1,5 +1,6 @@
 # Marketing Analysis Dashboard
-
+**Link to download the file:**
+  https://drive.google.com/drive/folders/1j01gPKZrzTZ69Gf0V8uzQ6r5874VjBOf?usp=share_link
 📊 **Overview**
 
 This project is a Marketing Analysis Dashboard designed to provide actionable insights into sales performance, customer trends, and marketing effectiveness. The dashboard includes various visualizations, forecasts, and AI-powered analytics to enhance decision-making.
